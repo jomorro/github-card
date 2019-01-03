@@ -1,0 +1,11 @@
+.user_display {
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  border-radius: 5%;
+  overflow: hidden;
+}
+
+.user_text_info {
+  padding: 10px;
+}
